@@ -1,0 +1,13 @@
+{
+	"title"		:	"PoliceRP_Plus-Megaphone",
+	"type"		:	"ServerContent",
+	"tags"		:	[ "roleplay","roleplay"],
+	"ignore"	:
+	[
+		".git/**",
+		".gitignore",
+		"img/**",
+        "LICENSE",
+        "README.md"
+	]
+}
